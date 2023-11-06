@@ -4,13 +4,6 @@
 <!-- <p align="center"><a href="자신의 블로그 주소" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p> -->
 <p align="center"> I'm a passionate BackEnd developer from S.Korea</p>
 
-
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
-
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
-
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
-
 - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
