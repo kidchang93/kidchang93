@@ -2,11 +2,12 @@
 
 <h3 align="center"><b>👀 About me 👀</b></h3>
 <!-- <p align="center"><a href="자신의 블로그 주소" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p> -->
-<p align="center"> I'm a passionate BackEnd developer from S.Korea</p>
+<!-- <p align="center"> I'm a passionate BackEnd developer from S.Korea</p> -->
+
 <div align="center">
   <br>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&size=35&pause=1000&color=E6B9F7&center=true&vCenter=true&width=1000&lines=“기술+스택을+빠르게+흡수하는+개발자+입니다.”;“함께+성장하는+것을+꾸준히+고민하는+개발자+입니다.”;)](https://git.io/typing-svg) 
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&size=20&pause=1000&color=000000&center=true&vCenter=true&width=1000&lines=“기술+스택을+빠르게+흡수하는+개발자+입니다.”;“함께+성장하는+것을+꾸준히+고민하는+개발자+입니다.”;)](https://git.io/typing-svg) 
   
 </div>
 
@@ -35,7 +36,8 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-
+ <br>
+   <br>
 </div>
 
 <h3 align="center"><b> Studying Stacks 📖</b></h3>
@@ -47,16 +49,18 @@
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
   <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
-
+ <br>
   <br>
 </div>
 
+<h3 align="center">📱 Contact 📱</p>
+
+[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">](https://www.instagram.com/c____n____s/)
+
+
+  
 <h3 align="center">📈 Project History 📈</p>
 
 
-<p align="center">Hi There! I'm a Client developer.</p>
-<p align="center"> My main skills are Android,Kotlin,Python.</p>
-<p align="center">I am a developer that continues to grow in the future. 🔥</p>
-<p align="center">Please look forward to my growth. Bye~</p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
