@@ -59,6 +59,7 @@
 
 <br>
 
+
 | Date | Contents | With | Link |
 |:---:|:---:|:---:|:---:|
 | 23.10 ~ 23.11 | 온라인 꽃 배달 서비스 제작 | Team 프로젝트 | [🏷](https://github.com/kidchang93/team3_project) |
@@ -66,7 +67,8 @@
 | ---- 23.10 ---- | CSS/HTML/JavaScript 웹페이지 | 개인 프로젝트 | [🏷](https://github.com/kidchang93/webProject) |
 | 23.09 ~ 24.03 | 에듀테크 풀스택 개발자 양성(Java) 과정 수료(국비 지원)  | 천재교육 |
 
-<h3 align="center">
+
+
 ![KidChang's GitHub stats](https://github-readme-stats.vercel.app/api?username=kidchang93&show_icons=true&theme=solarized-light)
-</h3>
+
 
