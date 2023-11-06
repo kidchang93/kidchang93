@@ -2,7 +2,7 @@
 
 <h3 align="center"><b>👀 About me 👀</b></h3>
 <!-- <p align="center"><a href="자신의 블로그 주소" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p> -->
-<p align="center"> I'm a self-taught passionate BackEnd developer from S.Korea</p>
+<p align="center"> I'm a passionate BackEnd developer from S.Korea</p>
 
 
 - 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
