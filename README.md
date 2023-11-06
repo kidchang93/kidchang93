@@ -56,12 +56,12 @@
 
 <h3 align="center">📱 Contact 📱</h3>
 <div align="center">
-[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">](https://www.instagram.com/c____n____s/)
+![<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/c____n____s/)
 </div>
 
-  
+
 <h3 align="center">📈 Project History 📈</h3>
-<div align="center">
+
 <br>
 
 | Date | Contents | With | Link |
@@ -73,4 +73,4 @@
 
 ![KidChang's GitHub stats](https://github-readme-stats.vercel.app/api?username=kidchang93&show_icons=true&theme=solarized-light)
 
-</div>
+
