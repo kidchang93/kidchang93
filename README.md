@@ -61,6 +61,6 @@
   
 <h3 align="center">📈 Project History 📈</p>
 
-
+![Kidchang's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브 아이디&show_icons=true&theme=스타일)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
