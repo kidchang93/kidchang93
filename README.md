@@ -60,7 +60,17 @@
 
   
 <h3 align="center">📈 Project History 📈</p>
+<br>
+
+| Date | Contents | With | Link |
+|:---:|:---:|:---:|:---:|
+| 23.10 ~ 23.11 | 온라인 꽃 배달 서비스 제작 | Team 프로젝트 | [🏷](https://github.com/kidchang93/team3_project) |
+| ---- 23.10 ---- | 게시판 CRUD 기능 구현 및 MyBatis 연결 | 개인 프로젝트 | [🏷](https://github.com/kidchang93/ck_database/tree/main/Java_MyBatis) |
+| ---- 23.10 ---- | CSS/HTML/JavaScript 웹페이지 | 개인 프로젝트 | [🏷](https://github.com/kidchang93/webProject) |
+| 23.09 ~ 24.03 | 에듀테크 풀스택 개발자 양성(Java) 과정 수료(국비 지원)  | 천재교육 |
 
 ![KidChang's GitHub stats](https://github-readme-stats.vercel.app/api?username=kidchang93&show_icons=true&theme=solarized-light)
+<br><br>
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)(https://github.com/kidchang93/github-readme-activity-graph)
