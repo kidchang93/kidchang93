@@ -69,8 +69,6 @@
 | ---- 23.10 ---- | CSS/HTML/JavaScript 웹페이지 | 개인 프로젝트 | [🏷](https://github.com/kidchang93/webProject) |
 | 23.09 ~ 24.03 | 에듀테크 풀스택 개발자 양성(Java) 과정 수료(국비 지원)  | 천재교육 |
 
+<br>
+
 ![KidChang's GitHub stats](https://github-readme-stats.vercel.app/api?username=kidchang93&show_icons=true&theme=solarized-light)
-<br><br>
-
-
-![footer](https://capsule-render.vercel.app/api?section=footer)
