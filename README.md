@@ -73,4 +73,4 @@
 <br><br>
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)(https://github.com/kidchang93/github-readme-activity-graph)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
