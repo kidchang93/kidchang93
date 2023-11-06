@@ -52,14 +52,16 @@
  <br>
   <br>
 </div>
+</div>
 
-<h3 align="center">📱 Contact 📱</p>
-
+<h3 align="center">📱 Contact 📱</h3>
+<div align="center">
 [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">](https://www.instagram.com/c____n____s/)
-
+</div>
 
   
-<h3 align="center">📈 Project History 📈</p>
+<h3 align="center">📈 Project History 📈</h3>
+<div align="center">
 <br>
 
 | Date | Contents | With | Link |
@@ -69,6 +71,6 @@
 | ---- 23.10 ---- | CSS/HTML/JavaScript 웹페이지 | 개인 프로젝트 | [🏷](https://github.com/kidchang93/webProject) |
 | 23.09 ~ 24.03 | 에듀테크 풀스택 개발자 양성(Java) 과정 수료(국비 지원)  | 천재교육 |
 
-<br>
-
 ![KidChang's GitHub stats](https://github-readme-stats.vercel.app/api?username=kidchang93&show_icons=true&theme=solarized-light)
+
+</div>
