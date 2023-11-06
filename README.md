@@ -4,7 +4,7 @@
 <!-- <p align="center"><a href="자신의 블로그 주소" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p> -->
 <p align="center"> I'm a passionate BackEnd developer from S.Korea</p>
 
-<p align="center">💬 Ask me about anything [here](https://github.com/kidchang93/kidchang93/issues)</p>
+<p align="center">💬 Ask me about anything [here][(https://github.com/kidchang93/kidchang93/issues)]</p>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
