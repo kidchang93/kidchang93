@@ -66,5 +66,5 @@
 | 23.09 ~ 24.03 | 에듀테크 풀스택 개발자 양성(Java) 과정 수료 | 천재교육 |
 
 
-![KidChang's GitHub stats](https://github-readme-stats.vercel.app/api?username=kidchang93&show_icons=true&theme=solarized-light)
+![KidChang's GitHub stats](https://github-readme-stats.vercel.app/api?username=kidchang93&show_icons=true&theme=solarized-light) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidchang&layout=compact)](https://github.com/kidchang93/github-readme-stats)
 
