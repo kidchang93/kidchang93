@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Chang%20kyu%20&fontSize=60&animation=twinkling&text-color=black)
 
 <h3 align="left"><b>👀 About me 👀</b></h3>
-<!-- <p align="center"><a href="자신의 블로그 주소" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p> -->
-<!-- <p align="center"> I'm a passionate BackEnd developer from S.Korea</p> -->
 
 <div align="left">
   <br>
@@ -10,6 +8,10 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&size=20&pause=1000&color=000000&left=true&vleft=true&width=1000&lines=“기술+스택을+빠르게+흡수하는+개발자+입니다.”;“함께+성장하는+것을+꾸준히+고민하는+개발자+입니다.”;)](https://git.io/typing-svg) 
   
 </div>
+
+![kidchang93 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=kidchang93)
+![kidchang93 github-trophies](https://stats.dooboo.io/api/github-trophies?login=kidchang93)
+
 
 <h3 align="left"><b>📖 My Stacks </b></h3>
 <div align="left">
@@ -64,7 +66,5 @@
 | 23.09 ~ 24.03 | 에듀테크 풀스택 개발자 양성(Java) 과정 수료 | 천재교육 |
 
 
-
 ![KidChang's GitHub stats](https://github-readme-stats.vercel.app/api?username=kidchang93&show_icons=true&theme=solarized-light)
-
 
