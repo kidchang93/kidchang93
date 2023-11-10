@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Chang%20kyu%20&fontSize=60&animation=twinkling&text-color=black)
 
-<h3 align="left"><b>👀 About me 👀</b></h3>
+<h3 align="center"><b>👀 About me 👀</b></h3>
 
-<div align="left">
+<div align="center">
   <br>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&size=20&pause=1000&color=000000&left=true&vleft=true&width=1000&lines=“기술+스택을+빠르게+흡수하는+개발자+입니다.”;“함께+성장하는+것을+꾸준히+고민하는+개발자+입니다.”;)](https://git.io/typing-svg) 
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&size=20&pause=1000&color=000000&center=true&vcenter=true&width=1000&lines=“기술+스택을+빠르게+흡수하는+개발자+입니다.”;“함께+성장하는+것을+꾸준히+고민하는+개발자+입니다.”;)](https://git.io/typing-svg) 
   
 </div>
 
@@ -13,8 +13,8 @@
 ![kidchang93 github-trophies](https://stats.dooboo.io/api/github-trophies?login=kidchang93)
 
 
-<h3 align="left"><b>📖 My Stacks </b></h3>
-<div align="left">
+<h3 align="center"><b>📖 My Stacks </b></h3>
+<div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -38,8 +38,8 @@
   <br>
 </div>
 
-<h3 align="left"><b> Studying Stacks 📖</b></h3>
-<div align="left">
+<h3 align="center"><b> Studying Stacks 📖</b></h3>
+<div align="center">
 
   <div>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -53,7 +53,7 @@
 </div>
 
 
-<h3 align="left">📈 Project History 📈</h3>
+<h3 align="center">📈 Project History 📈</h3>
 
 <br>
 
