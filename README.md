@@ -36,8 +36,8 @@
   <br>
 </div>
 
-<h3 align="center"><b> Studying Stacks 📖</b></h3>
-<div align="center">
+<h3 align="left"><b> Studying Stacks 📖</b></h3>
+<div align="left">
 
   <div>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -51,7 +51,7 @@
 </div>
 
 
-<h3 align="center">📈 Project History 📈</h3>
+<h3 align="left">📈 Project History 📈</h3>
 
 <br>
 
