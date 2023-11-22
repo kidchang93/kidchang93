@@ -41,8 +41,7 @@
 
 <h3 align="center"><b> Studying Stacks 📖</b></h3>
 <div>
-<!-- <div align="center"> -->
-
+<!-- <div align="left"> -->
   <div>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
@@ -50,17 +49,12 @@
   <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
  <br>
   <br>
-
 </div>
-
-
-<h3 align="center">📈 Project History 📈</h3>
-
+  <h3>📈 Project History 📈</h3>
 <br>
-
-
 | Date | Contents | With | Link |
 |:---:|:---:|:---:|:---:|
+| 23.11 ~ 23.12 | 온라인 공부 인증 웹서비스 제작 | Team Project | [🏷] |
 | 23.10 ~ 23.11 | 온라인 꽃 배달 서비스 제작 | Team Project | [🏷](https://github.com/kidchang93/team3_project/tree/develop) |
 | ---- 23.10 ---- | 게시판 CRUD 기능 구현 및 MyBatis 연결 | 개인 프로젝트 | [🏷](https://github.com/kidchang93/ck_database/tree/main/Java_MyBatis) |
 | ---- 23.10 ---- | CSS/HTML/JavaScript 웹페이지 | 개인 프로젝트 | [🏷](https://github.com/kidchang93/webProject) |
