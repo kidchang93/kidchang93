@@ -13,7 +13,7 @@
 ![kidchang93 github-trophies](https://stats.dooboo.io/api/github-trophies?login=kidchang93)
 
 
-<h3 align="center"><b>📖 My Stacks </b></h3>
+<h3 align="left"><b>📖 My Stacks </b></h3>
 <div>
 <!-- <div align="center"> -->
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -39,7 +39,7 @@
   <br>
 </div>
 
-<h3 align="center"><b> Studying Stacks 📖</b></h3>
+<h3 align="left"><b> Studying Stacks 📖</b></h3>
 <div>
 <!-- <div align="left"> -->
   <div>
