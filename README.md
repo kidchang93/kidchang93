@@ -56,6 +56,7 @@
   
 | Date | Contents | With | Link |
 |:---:|:---:|:---:|:---:|
+| 23.12 ~ 24.01 | 스터디그룹 & LMS Project | Team Project | [🏷](https://github.com/kidchang93/Sloop-Spring) |
 | 23.11 ~ 23.12 | 온라인 공부 인증 웹서비스 제작 | Team Project | [🏷](https://github.com/kidchang93/GongCheck/tree/main) |
 | 23.10 ~ 23.11 | 온라인 꽃 배달 서비스 제작 | Team Project | [🏷](https://github.com/kidchang93/team3_project/tree/develop) |
 | ---- 23.10 ---- | 게시판 CRUD 기능 구현 및 MyBatis 연결 | 개인 프로젝트 | [🏷](https://github.com/kidchang93/ck_database/tree/main/Java_MyBatis) |
