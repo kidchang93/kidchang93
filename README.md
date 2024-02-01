@@ -10,7 +10,6 @@
 </div>
 
 ![kidchang93 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=kidchang93)
-![kidchang93 github-trophies](https://stats.dooboo.io/api/github-trophies?login=kidchang93)
 
 
 <h3 align="left"><b>📖 My Stacks </b></h3>
