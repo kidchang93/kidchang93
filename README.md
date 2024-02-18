@@ -53,7 +53,7 @@
   
 | Date | Contents | With | Link |
 |:---:|:---:|:---:|:---:|
-| 23.01 ~ 24.02 | ThymeLeaf * SpringBoot (RestApi) | Personal Project | [🏷](https://github.com/kidchang93/sbt_data/tree/main/Board) |
+| 23.01 ~ 24.02 | ThymeLeaf X SpringBoot (RestApi) | Personal Project | [🏷](https://github.com/kidchang93/sbt_data/tree/main/Board) |
 | 23.01 ~ 24.02 | 클래스 아카이브 CMS(관리자페이지) 제작 | Team Project | [🏷](https://github.com/kidchang93/SloopArchive) |
 | 23.12 ~ 24.01 | 스터디 모임관리 & LMS 서비스 제작 | Team Project | [🏷](https://github.com/kidchang93/Sloop-Spring) |
 | 23.11 ~ 23.12 | 온라인 공부 인증 웹서비스 제작 | Team Project | [🏷](https://github.com/kidchang93/GongCheck/tree/main) |
