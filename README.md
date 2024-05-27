@@ -10,7 +10,7 @@
 </div>
 
 
-<h3 align="center"><b>📖 My Stacks </b></h3>
+<h3 align="center"><b>📖 My Stacks 📖</b></h3>
 <div>
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -36,7 +36,7 @@
   <br>
 </div>
 
-<h3 align="center"><b> Studying Stacks 📖</b></h3>
+<h3 align="center"><b> 📖 Studying Stacks 📖</b></h3>
 <div>
 <div align="center">
   <div>
@@ -47,6 +47,16 @@
  <br>
   <br>
 </div>
+<br>
+  
+<h3> 📖 My Career 📖 </h3>
+  
+<br/>
+  
+| Date | Company | Rank | Position |
+|:---:|:---:|:---:|:---:|
+| 23.03 ~ | [천재교육] 디지털사업본부 서비스개발팀 | Specialist | FullStack-Dev |
+
   <h3>📈 Project History 📈</h3>
   
 <br>
