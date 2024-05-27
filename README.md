@@ -55,7 +55,7 @@
   
 | Date | Company | Rank | Position |
 |:---:|:---:|:---:|:---:|
-| 23.03 ~ | [천재교육] 디지털사업본부 서비스개발팀 | Specialist | FullStack-Dev |
+| 23.05 ~ | [천재교육] 디지털사업본부 서비스개발팀 | Specialist | FullStack-Dev |
 
   <h3>📈 Project History 📈</h3>
   
