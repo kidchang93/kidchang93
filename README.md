@@ -11,7 +11,7 @@
 <div align="center">
 
 | Category | SkillSet |
-|:---:|:--------|
+|:---:|--------|
 | 📋 **Languages** | <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">|
 | 📚 **Frameworks, Libraries** |<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/jpa-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/jwt-black?style=for-the-badge&logo=JSON%20web%20tokens"> <img src="https://img.shields.io/badge/mybatis-004088?style=for-the-badge&logo=mybatis&logoColor=white">|
 | 📬 **Event Stream, M.Broker** |<img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"> <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"> <img src="https://img.shields.io/badge/WebSocket-black?style=for-the-badge&logo=spring&badgeColor=010101">|
@@ -22,7 +22,7 @@
 | 🧳 **Others**|<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">|
 | 📖 **Studying Stacks** |<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"> <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white">|
   
-  
+
 <h3 align="center"> 📖 My Career 📖 </h3>
   
 <br/>
@@ -51,4 +51,4 @@
 
 
 ![KidChang's GitHub stats](https://github-readme-stats.vercel.app/api?username=kidchang93&show_icons=true&theme=solarized-light) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidchang93&layout=compact)](https://github.com/kidchang93/github-readme-stats)
-
+</div>
