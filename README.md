@@ -30,7 +30,8 @@
   
 | Date | Company | Rank | Position |
 |:---:|:--------------:|:---:|:---:|
-| 23.05 ~ | [천재교육] 디지털사업본부 서비스개발팀 | Specialist | FullStack-Dev |
+| 23.05 ~ | **[(주)천재교육]** 디지털사업본부 서비스개발팀 | Specialist | FullStack-Dev |
+| 23.09 ~ 24.03 | **[(주)천재교육]** | | 에듀테크 풀스택 개발자 과정 수료 |
 
   <h3>📈 Project History 📈</h3>
   
@@ -48,7 +49,7 @@
 | 23.10 ~ 23.11 | 온라인 꽃 배달 서비스 제작 | Team Project | [🏷](https://github.com/kidchang93/team3_project/tree/develop) |
 | ---- 23.10 ---- | 게시판 CRUD 기능 구현 및 MyBatis 연결 | Personal Project | [🏷](https://github.com/kidchang93/ck_database/tree/main/Java_MyBatis) |
 | ---- 23.10 ---- | CSS/HTML/JavaScript 웹페이지 | Personal Project | [🏷](https://github.com/kidchang93/webProject) |
-| 23.09 ~ 24.03 | 에듀테크 풀스택 개발자 과정 수료 | (주)천재교육 |
+
 
 
 ![KidChang's GitHub stats](https://github-readme-stats.vercel.app/api?username=kidchang93&show_icons=true&theme=solarized-light) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidchang93&layout=compact)](https://github.com/kidchang93/github-readme-stats)
