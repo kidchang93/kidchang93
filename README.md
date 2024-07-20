@@ -8,7 +8,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&size=30&pause=1000&color=000000&center=true&vcenter=true&width=1000&lines=“기술+스택을+빠르게+흡수하는+개발자+입니다.”;“함께+성장하는+것을+꾸준히+고민하는+개발자+입니다.”;"물음표+보단+느낌표를+주는+개발자+입니다.";)](https://git.io/typing-svg) 
   
 </div>
-
+<div align="center">
 
 | Category | SkillSet |
 |:---:|:--------:|
