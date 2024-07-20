@@ -9,7 +9,7 @@
   
 </div>
 <div align="center">
-<h3 align="center">📊 SKILL SET</h3>
+<h3 align="center"><b>📊 SKILL SET 📊</b></h3>
 <br>
 
 | Category | SkillSet |
