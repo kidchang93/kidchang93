@@ -9,6 +9,8 @@
   
 </div>
 <div align="center">
+<h3 align="center">📊 SKILL SET</h3>
+<br>
 
 | Category | SkillSet |
 |:---:|--------|
@@ -25,7 +27,6 @@
 
 
 <h3 align="center"> 📖 My Career 📖 </h3>
-  
 <br/>
   
 | Date | Company | Rank | Position |
